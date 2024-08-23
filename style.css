@@ -11,6 +11,7 @@
     box-sizing: border-box;
     /* font-family: "Montserrat", sans-serif; */
     text-decoration: none;
+    overflow-x: hidden;
   }
   
   header {
@@ -222,7 +223,7 @@
   .main-section {
     width: 100%;
     min-height: 80vh;
-    background-image: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/mckinneytx/temp_a3b8dc43-32d2-40ed-be01-5f55045ee6cc.jpg');
+    background-image: url('./images/temp_a3b8dc43-32d2-40ed-be01-5f55045ee6cc.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -786,7 +787,7 @@ padding: 22px;
   .visit-office {
     text-align: center;
     padding: 50px 20px;
-    background-image: url("https://st.depositphotos.com/1679906/3102/v/450/depositphotos_31021747-stock-illustration-abstract-vector-background-for-use.jpg"); 
+    background-image: url("./images/depositphotos_31021747-stock-illustration-abstract-vector-background-for-use.jpg"); 
 background-repeat: no-repeat;
 background-size: cover;
 }
